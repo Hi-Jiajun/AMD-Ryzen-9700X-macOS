@@ -1,0 +1,60 @@
+# License
+
+This repository mixes written material and small pieces of code, and they carry
+different licenses.
+
+## Written material — CC BY 4.0
+
+All documents (`README.md`, everything under `docs/`, and the reports under
+`evidence/`) are licensed under the **Creative Commons Attribution 4.0
+International License**.
+
+Full text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+In short: you may share and adapt the material for any purpose, including
+commercially, as long as you give appropriate credit, link to the license, and
+indicate whether changes were made.
+
+## Code — MIT
+
+The code snippets embedded in the documents, and the small tools under
+`evidence/` (for example `evidence/20261025-amd-sensors/smcdump.c` and
+`evidence/20261025-amd-sensors/test_temp_decode.py`), are licensed under the MIT
+License:
+
+```
+MIT License
+
+Copyright (c) 2026 Hi-Jiajun
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
+
+## Third-party material referenced here
+
+Quoted excerpts from upstream projects (OpenCore documentation, AMD_Vanilla
+patches, Lilu/VirtualSMC, trulyspinach's SMCAMDProcessor, the NullMoth NVIDIA
+driver) remain under their own licenses and are quoted for discussion. They are
+not redistributed as part of this repository.
+
+## A note on safety
+
+Nothing here is warranted to work, and several procedures described (ESP writes,
+kernel cache rebuilds, AC power cycles) can leave a machine unbootable. The
+record documents what was done on one machine; reproducing it is your risk.

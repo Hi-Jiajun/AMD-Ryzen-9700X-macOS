@@ -1,0 +1,339 @@
+===== 已读到的变量 =====
+  0x0018  VendorKeys                     8BE4DF61-93CA-11D2-AA0D-00E098032B8C  1 B
+  0x0019  SetupMode                      8BE4DF61-93CA-11D2-AA0D-00E098032B8C  1 B
+  0x001A  SecureBoot                     8BE4DF61-93CA-11D2-AA0D-00E098032B8C  1 B
+  0x0020  AutoDetectData                 EC87D643-EBA4-4BB5-A1E5-3F3E36B20DA9  63 B
+  0x5000  AmdSetupRPL                    3A997502-647A-4C82-998E-52EF9486A247  2016 B
+  0xF001  AodSetupRpl                    5ED15DC0-EDEF-4161-9151-6014C4CC630C  800 B
+  0xF005  Timeout                        8BE4DF61-93CA-11D2-AA0D-00E098032B8C  2 B
+  0xF006  BootOrder                      8BE4DF61-93CA-11D2-AA0D-00E098032B8C  4 B
+  0xF009  PlatformLang                   8BE4DF61-93CA-11D2-AA0D-00E098032B8C  7 B
+  0xF00A  PlatformLangCodes              8BE4DF61-93CA-11D2-AA0D-00E098032B8C  19 B
+  0xF101  Setup                          EC87D643-EBA4-4BB5-A1E5-3F3E36B20DA9  306 B
+
+===== 超频 / 内存 / 关键项（按 IFR 解码）=====
+  [Setup                  +0x04D] SVM Mode                                       = Enabled
+  [Setup                  +0x0A8] IOMMU                                          = Disabled
+  [Setup                  +0x0AC] Core Performance Boost                         = Disabled
+  [Setup                  +0x0B7] CPU PCIE ASPM Mode Control                     = Auto
+  [Setup                  +0x0BC] PCIe X16 Aspm                                  = Auto
+  [Setup                  +0x0BD] PCIE X16 Lanes Configuration                   = Auto Mode
+  [Setup                  +0x0BD] PCIE X16 Lanes Configuration                   = Auto Mode
+  [Setup                  +0x0C4] PCIEX16 Link Mode                              = Auto
+  [Setup                  +0x0C4] PCIEX16 Link Mode                              = Auto
+  [Setup                  +0x0D0] PCIEx4 Link Mode                               = Auto
+  [Setup                  +0x06D] Above 4G Decoding                              = Enabled
+  [Setup                  +0x0D8] SATA Controller(s)                             = Enabled
+  [Setup                  +0x0DA] SATA-01                                        = Enabled
+  [Setup                  +0x0DE] SATA-01 Hot Plug                               = Disabled
+  [Setup                  +0x0DB] SATA-02                                        = Enabled
+  [Setup                  +0x0DF] SATA-02 Hot Plug                               = Disabled
+  [Setup                  +0x0D9] SATA Mode                                      = AHCI
+  [Setup                  +0x0D7] NVMe RAID mode                                 = Disabled
+  [Setup                  +0x0FE] USB2_4                                         = Enabled
+  [Setup                  +0x104] USB3_2_LAN                                     = Enabled
+  [Setup                  +0x105] USB3_1_LAN                                     = Enabled
+  [Setup                  +0x10A] USB2_3                                         = Enabled
+  [Setup                  +0x120] F_USBC                                         = Enabled
+  [Setup                  +0x110] USB3_4                                         = Enabled
+  [Setup                  +0x111] USB3_3                                         = Enabled
+  [Setup                  +0x112] F_USB3_1                                       = Enabled
+  [Setup                  +0x113] F_USB3_2                                       = Enabled
+  [Setup                  +0x114] F_USB2_1_1                                     = Enabled
+  [Setup                  +0x115] F_USB2_1_2                                     = Enabled
+  [Setup                  +0x116] F_USB2_2_1                                     = Enabled
+  [Setup                  +0x117] F_USB2_2_2                                     = Enabled
+  [Setup                  +0x118] USB2_2                                         = Enabled
+  [Setup                  +0x119] USB2_1                                         = Enabled
+  [Setup                  +0x0FB] USB0 Mode                                      = G2X2
+  [Setup                  +0x121] Selects TPM device                             = Enable Firmware TPM
+  [Setup                  +0x02F] Erase fTPM NV for factory reset                = Enabled
+  [Setup                  +0x010] --Pending operation                            = None
+  [Setup                  +0x00F] TPM State                                      = Enabled
+  [Setup                  +0x010] --Pending operation                            = None
+  [Setup                  +0x010] --Pending operation                            = None
+  [Setup                  +0x010] --Pending operation                            = None
+  [Setup                  +0x01C] TPM 2.0 UEFI Spec Version                      = TCG_2
+  [Setup                  +0x020] TPM 2.0 InterfaceType                          = CRB
+  [Setup                  +0x02F] Erase fTPM NV for factory reset                = Enabled
+  [Setup                  +0x030] Enable ACPI Auto Configuration                 = Disabled
+  [Setup                  +0x038] Onboard PCIE LAN PXE ROM                       = Enabled
+  [Setup                  +0x042] Wake up second                                 = 0
+  [Setup                  +0x071] PCI Latency Timer                              = 32 PCI Bus Clocks
+  [Setup                  +0x077] PCI-X Latency Timer                            = 64 PCI Bus Clocks
+  [Setup                  +0x073] PERR# Generation                               = Disabled
+  [Setup                  +0x074] SERR# Generation                               = Disabled
+  [Setup                  +0x06D] Above 4G Decoding                              = Enabled
+  [Setup                  +0x069] Above 4GB MMIO Limit                           = 40bit (1TB)
+  [Setup                  +0x004] SATA Support                                   = Last Boot SATA Devices Only
+  [Setup                  +0x00B] NVMe Support                                   = Enabled
+  [Setup                  +0x006] USB Support                                    = Full Initial
+  [Setup                  +0x125] Launch CSM                                     = Disabled
+  [Setup                  +0x0A0] USB S4/S5 Power                                = Enabled
+  [Setup                  +0x0A1] Wakeup on USB from S4                          = Enabled
+  [Setup                  +0x042] Wake up second                                 = 0
+
+（共 60 项匹配到超频/内存关键字）
+
+===== 全量清单（所有已读到变量的全部设置）=====
+
+--- VarStore 0x0018  VendorKeys  (8BE4DF61-93CA-11D2-AA0D-00E098032B8C, 1 B) ---
+  +0x000                                                       = 1
+
+--- VarStore 0x0019  SetupMode  (8BE4DF61-93CA-11D2-AA0D-00E098032B8C, 1 B) ---
+  +0x000                                                       = 0
+
+--- VarStore 0x001A  SecureBoot  (8BE4DF61-93CA-11D2-AA0D-00E098032B8C, 1 B) ---
+  +0x000                                                       = 0
+
+--- VarStore 0x0020  AutoDetectData  (EC87D643-EBA4-4BB5-A1E5-3F3E36B20DA9, 63 B) ---
+  +0x007                                                       = 8
+  +0x013                                                       = 0
+  +0x012                                                       = 1
+  +0x001                                                       = 16
+  +0x001                                                       = 16
+  +0x03E                                                       = 1
+
+--- VarStore 0x5000  AmdSetupRPL  (3A997502-647A-4C82-998E-52EF9486A247, 2016 B) ---
+  +0x040                                                       = 255
+
+--- VarStore 0xF001  AodSetupRpl  (5ED15DC0-EDEF-4161-9151-6014C4CC630C, 800 B) ---
+  +0x002                                                       = 3
+  +0x005                                                       = 1
+
+--- VarStore 0xF005  Timeout  (8BE4DF61-93CA-11D2-AA0D-00E098032B8C, 2 B) ---
+  +0x000  Setup Prompt Timeout                                 = 1
+  +0x000  Setup Prompt Timeout                                 = 1
+
+--- VarStore 0xF006  BootOrder  (8BE4DF61-93CA-11D2-AA0D-00E098032B8C, 4 B) ---
+  +0x000  Boot Option #%d                                      = 
+  +0x000  Boot Option #%d                                      = 
+
+--- VarStore 0xF009  PlatformLang  (8BE4DF61-93CA-11D2-AA0D-00E098032B8C, 7 B) ---
+  +0x000  System Language                                      = 26746
+
+--- VarStore 0xF00A  PlatformLangCodes  (8BE4DF61-93CA-11D2-AA0D-00E098032B8C, 19 B) ---
+  +0x000                                                       = 28261
+
+--- VarStore 0xF101  Setup  (EC87D643-EBA4-4BB5-A1E5-3F3E36B20DA9, 306 B) ---
+  +0x04A  PSS Support                                          = Disabled
+  +0x04C  PPC Adjustment                                       = PState 0
+  +0x04C  PPC Adjustment                                       = PState 0
+  +0x04C  PPC Adjustment                                       = PState 0
+  +0x04C  PPC Adjustment                                       = PState 0
+  +0x04C  PPC Adjustment                                       = PState 0
+  +0x04C  PPC Adjustment                                       = PState 0
+  +0x04C  PPC Adjustment                                       = PState 0
+  +0x04C  PPC Adjustment                                       = PState 0
+  +0x04E  NX Mode                                              = Enabled
+  +0x04D  SVM Mode                                             = Enabled
+  +0x0A7  Global C-state Control                               = Disabled
+  +0x0A8  IOMMU                                                = Disabled
+  +0x0A9  Pre-boot DMA Protection                              = Auto
+  +0x0AA  Kernel DMA Protection Indicator                      = Auto
+  +0x0AB  SMT Control                                          = Auto
+  +0x0AC  Core Performance Boost                               = Disabled
+  +0x0AD  AVX512                                               = Auto
+  +0x0AE  SMEE                                                 = Auto
+  +0x0B0  Primary Video Device                                 = PCIE Video
+  +0x0B1  Integrated Graphics                                  = Disabled
+  +0x0B3  UMA Frame Buffer Size                                = Auto
+  +0x0B2  App Compatibility Database                           = Auto
+  +0x0BB  Native ASPM                                          = Auto
+  +0x0B7  CPU PCIE ASPM Mode Control                           = Auto
+  +0x0BC  PCIe X16 Aspm                                        = Auto
+  +0x0BD  PCIE X16 Lanes Configuration                         = Auto Mode
+  +0x0BD  PCIE X16 Lanes Configuration                         = Auto Mode
+  +0x0C4  PCIEX16 Link Mode                                    = Auto
+  +0x0C4  PCIEX16 Link Mode                                    = Auto
+  +0x0C2  M2_SSD_A Link Mode                                   = Auto
+  +0x0C2  M2_SSD_A Link Mode                                   = Auto
+  +0x0C1  Chipset Link Mode                                    = Auto
+  +0x0C3  M2_SSD_B Link Mode                                   = Auto
+  +0x0C3  M2_SSD_B Link Mode                                   = Auto
+  +0x0C8  SFF_8654 Link Mode                                   = Auto
+  +0x0D0  PCIEx4 Link Mode                                     = Auto
+  +0x06D  Above 4G Decoding                                    = Enabled
+  +0x06E  Resize BAR Support                                   = Enabled
+  +0x06F  SR-IOV Support                                       = Disabled
+  +0x0D8  SATA Controller(s)                                   = Enabled
+  +0x0DA  SATA-01                                              = Enabled
+  +0x0DE  SATA-01 Hot Plug                                     = Disabled
+  +0x0DB  SATA-02                                              = Enabled
+  +0x0DF  SATA-02 Hot Plug                                     = Disabled
+  +0x0E3  M2_SSD_A Enable                                      = Enabled
+  +0x0E4  M2_SSD_B Enable                                      = Enabled
+  +0x0D9  SATA Mode                                            = AHCI
+  +0x0D7  NVMe RAID mode                                       = Disabled
+  +0x0FE  USB2_4                                               = Enabled
+  +0x0FF  TYPE-C                                               = Enabled
+  +0x104  USB3_2_LAN                                           = Enabled
+  +0x105  USB3_1_LAN                                           = Enabled
+  +0x10A  USB2_3                                               = Enabled
+  +0x120  F_USBC                                               = Enabled
+  +0x110  USB3_4                                               = Enabled
+  +0x111  USB3_3                                               = Enabled
+  +0x112  F_USB3_1                                             = Enabled
+  +0x113  F_USB3_2                                             = Enabled
+  +0x114  F_USB2_1_1                                           = Enabled
+  +0x115  F_USB2_1_2                                           = Enabled
+  +0x116  F_USB2_2_1                                           = Enabled
+  +0x117  F_USB2_2_2                                           = Enabled
+  +0x118  USB2_2                                               = Enabled
+  +0x119  USB2_1                                               = Enabled
+  +0x0FB  USB0 Mode                                            = G2X2
+  +0x09A  Realtek LAN Controller                               = Enabled
+  +0x014  Security Device Support                              = Enabled
+  +0x029  SHA256 PCR Bank                                      = Enabled
+  +0x02A  --SHA384 PCR Bank                                    = Disabled
+  +0x02C  --SM3_256 PCR Bank                                   = Disabled
+  +0x121  Selects TPM device                                   = Enable Firmware TPM
+  +0x02F  Erase fTPM NV for factory reset                      = Enabled
+  +0x010  --Pending operation                                  = None
+  +0x01D  --Platform Hierarchy                                 = Enabled
+  +0x01E  --Storage Hierarchy                                  = Enabled
+  +0x01F  --Endorsement Hierarchy                              = Enabled
+  +0x02E  --Physical Presence Spec Version                     = 1.3
+  +0x122  Password Check                                       = Setup
+  +0x123  BIOS Write Protection                                = Disabled
+  +0x014  Security Device Support                              = Enabled
+  +0x014  Security Device Support                              = Enabled
+  +0x00F  TPM State                                            = Enabled
+  +0x010  --Pending operation                                  = None
+  +0x014  Security Device Support                              = Enabled
+  +0x00F  TCM State                                            = Enabled
+  +0x010  --Pending operation                                  = None
+  +0x021  Device Select                                        = Auto
+  +0x014  Security Device Support                              = Enabled
+  +0x028  SHA-1 PCR Bank                                       = Disabled
+  +0x029  SHA256 PCR Bank                                      = Enabled
+  +0x02A  --SHA384 PCR Bank                                    = Disabled
+  +0x02B  --SHA512 PCR Bank                                    = Disabled
+  +0x02C  --SM3_256 PCR Bank                                   = Disabled
+  +0x010  --Pending operation                                  = None
+  +0x01D  --Platform Hierarchy                                 = Enabled
+  +0x01E  --Storage Hierarchy                                  = Enabled
+  +0x01F  --Endorsement Hierarchy                              = Enabled
+  +0x02E  --Physical Presence Spec Version                     = 1.3
+  +0x01C  TPM 2.0 UEFI Spec Version                            = TCG_2
+  +0x020  TPM 2.0 InterfaceType                                = CRB
+  +0x021  Device Select                                        = Auto
+  +0x02F  Erase fTPM NV for factory reset                      = Enabled
+  +0x030  Enable ACPI Auto Configuration                       = Disabled
+  +0x033  Enable Hibernation                                   = Enabled
+  +0x031  ACPI Sleep State                                     = S3 (Suspend to RAM)
+  +0x038  Onboard PCIE LAN PXE ROM                             = Enabled
+  +0x03F  Wake system from RTC                                 = Disabled
+  +0x043  Wake up day                                          = 0
+  +0x040  Wake up hour                                         = 0
+  +0x041  Wake up minute                                       = 0
+  +0x042  Wake up second                                       = 0
+  +0x044  Wake up minute increase                              = 1
+  +0x049  Password protection of Runtime Variables             = Enabled
+  +0x06A  Output Select                                        = Unknown Device
+  +0x06A  Output Select                                        = Unknown Device
+  +0x06A  Output Select                                        = Unknown Device
+  +0x06A  Output Select                                        = Unknown Device
+  +0x06A  Output Select                                        = Unknown Device
+  +0x06A  Output Select                                        = Unknown Device
+  +0x06A  Output Select                                        = Unknown Device
+  +0x06A  Output Select                                        = Unknown Device
+  +0x06B  Debug Port Table                                     = Disabled
+  +0x06C  Debug Port Table 2                                   = Disabled
+  +0x071  PCI Latency Timer                                    = 32 PCI Bus Clocks
+  +0x077  PCI-X Latency Timer                                  = 64 PCI Bus Clocks
+  +0x072  VGA Palette Snoop                                    = Disabled
+  +0x073  PERR# Generation                                     = Disabled
+  +0x074  SERR# Generation                                     = Disabled
+  +0x06D  Above 4G Decoding                                    = Enabled
+  +0x06E  Resize BAR Support                                   = Enabled
+  +0x06F  SR-IOV Support                                       = Disabled
+  +0x070  BME DMA Mitigation                                   = Disabled
+  +0x083  Don't Reset VC-TC Mapping                            = Disabled
+  +0x078  Relaxed Ordering                                     = Enabled
+  +0x079  Extended Tag                                         = 5-BIT TAG
+  +0x07A  No Snoop                                             = Enabled
+  +0x07B  Maximum Payload                                      = Auto
+  +0x07C  Maximum Read Request                                 = Auto
+  +0x07D  ASPM Support                                         = Disabled
+  +0x07E  Extended Synch                                       = Disabled
+  +0x07F  Link Training Retry                                  = 5
+  +0x080  Link Training Timeout (uS)                           = 1000
+  +0x082  Disable Empty Links                                  = Keep Link ON
+  +0x084  Completion Timeout                                   = Default
+  +0x085  ARI Forwarding                                       = Disabled
+  +0x086  AtomicOp Requester Enable                            = Disabled
+  +0x087  AtomicOp Egress Blocking                             = Disabled
+  +0x088  IDO Request Enable                                   = Disabled
+  +0x089  IDO Completion Enable                                = Disabled
+  +0x08A  LTR Mechanism Enable                                 = Disabled
+  +0x08B  End-End TLP Prefix Blocking                          = Disabled
+  +0x08C  Target Link Speed                                    = Auto
+  +0x08F  Hardware Autonomous Width                            = Disabled
+  +0x090  Hardware Autonomous Speed                            = Disabled
+  +0x091  BIOS Hot-Plug Support                                = Enabled
+  +0x092  PCI Buses Padding                                    = 1
+  +0x093  I/O Resources Padding                                = 4 K
+  +0x094  MMIO 32 bit Resources Padding                        = 16 M
+  +0x095  PFMMIO 32 bit Resources Padding                      = 16 M
+  +0x098  PFMMIO 64 bit Resources Padding                      = Disabled
+  +0x131  Theme Select                                         = Textured Glass
+  +0x069  Above 4GB MMIO Limit                                 = 40bit (1TB)
+  +0x001  Disable Block Sid and Freeze Lock                    = Disabled
+  +0x000  Bootup NumLock State                                 = On
+  +0x003  Fast Boot                                            = Disabled
+  +0x004  SATA Support                                         = Last Boot SATA Devices Only
+  +0x00B  NVMe Support                                         = Enabled
+  +0x00C  UFS Support                                          = Enabled
+  +0x005  VGA Support                                          = EFI Driver
+  +0x006  USB Support                                          = Full Initial
+  +0x007  PS2 Devices Support                                  = Enabled
+  +0x00A  Network Stack Driver Support                         = Disabled
+  +0x009  Redirection Support                                  = Disabled
+  +0x003  Fast Boot                                            = Disabled
+  +0x045  POST Delay Time                                      = 3 sec
+  +0x046  POST Report                                          = 5 sec
+  +0x000  Bootup NumLock State                                 = On
+  +0x047  Wait For 'F1' If Error                               = Disabled
+  +0x126  Option ROM Messages                                  = Force BIOS
+  +0x127  Interrupt 19 Capture                                 = Immediate
+  +0x000  Bootup NumLock State                                 = On
+  +0x003  Fast Boot                                            = Disabled
+  +0x125  Launch CSM                                           = Disabled
+  +0x12B  Boot Device Control                                  = UEFI and Legacy OPROM
+  +0x12A  GateA20 Active                                       = Upon Request
+  +0x127  Interrupt 19 Capture                                 = Immediate
+  +0x12E  Launch Video OPROM policy                            = UEFI only
+  +0x12C  Legacy PXE Support                                   = UEFI only
+  +0x12D  Boot from Storage Devices                            = UEFI only
+  +0x12F  Boot from PCI-E/PCI Expansion Devices                = UEFI only
+  +0x031  ACPI Sleep State                                     = S3 (Suspend to RAM)
+  +0x033  Enable Hibernation                                   = Enabled
+  +0x09F  EUP                                                  = Disabled
+  +0x0A0  USB S4/S5 Power                                      = Enabled
+  +0x0A1  Wakeup on USB from S4                                = Enabled
+  +0x0A2  Wakeup on LAN                                        = Disabled
+  +0x0A3  Restore AC Power Loss                                = Power off
+  +0x03F  Wake system from RTC                                 = Disabled
+  +0x043  Wake up day                                          = 0
+  +0x040  Wake up hour                                         = 0
+  +0x041  Wake up minute                                       = 0
+  +0x042  Wake up second                                       = 0
+  +0x044  Wake up minute increase                              = 1
+  +0x130                                                       = 1
+  +0x002                                                       = 1
+  +0x076                                                       = 0
+  +0x075                                                       = 0
+  +0x023                                                       = 0
+  +0x027                                                       = 0
+  +0x026                                                       = 0
+  +0x025                                                       = 1
+  +0x024                                                       = 1
+  +0x016                                                       = 0
+  +0x015                                                       = 1
+  +0x012                                                       = 1
+  +0x017                                                       = 0
+  +0x01B                                                       = 1
+  +0x019                                                       = 0
+  +0x0D6                                                       = 0
+  +0x04B                                                       = 1

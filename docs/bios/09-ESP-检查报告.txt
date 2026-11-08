@@ -1,0 +1,398 @@
+=== ELEVATED: True | user=Win11-9700X\hiliang ===
+==================== S: 根目录 ====================
+
+Mode  LastWriteTime      Length Name
+----  -------------      ------ ----
+d--h- 2026/10/7 17:10:14        .fseventsd
+d--h- 2026/10/7 17:10:14        .Spotlight-V100
+d--h- 2026/10/7 17:10:14        .Trashes
+d--hs 2026/10/8 13:44:28        $RECYCLE.BIN
+da--- 2026/10/8 13:45:44        EFI
+d--hs 2026/5/24 11:40:10        System Volume Information
+-a--- 2026/10/8 0:56:54  262144 opencore-2026-10-08-005649.txt
+-a--- 2026/10/8 1:19:38  262144 opencore-2026-10-08-011932.txt
+-a--- 2026/10/8 1:26:24  262144 opencore-2026-10-08-012622.txt
+-a--- 2026/10/8 13:28:16 262144 opencore-2026-10-08-132811.txt
+-a--- 2026/10/8 13:36:02 262144 opencore-2026-10-08-133558.txt
+-a--- 2026/10/8 13:45:40 262144 opencore-2026-10-08-134541.txt
+
+==================== S:\EFI ====================
+
+T   LastWriteTime      Length Name
+-   -------------      ------ ----
+DIR 2026/10/8 6:42:00         BOOT
+DIR 2026/10/8 13:45:44        Microsoft
+DIR 2026/10/8 6:42:00         OC
+
+==================== S:\EFI\Boot ====================
+
+T    LastWriteTime      Length Name
+-    -------------      ------ ----
+FILE 2026/10/7 17:10:28      8 .contentFlavour
+FILE 2026/10/7 17:10:28      8 .contentVisibility
+FILE 2026/10/7 17:10:28  24576 BOOTx64.efi
+
+==================== S:\EFI\Microsoft ====================
+
+T   LastWriteTime      Length Name
+-   -------------      ------ ----
+DIR 2026/10/8 13:45:44        Boot
+DIR 2026/10/8 13:45:00        Recovery
+
+==================== S:\EFI\Microsoft\Boot ====================
+
+T    LastWriteTime      Length  Name
+-    -------------      ------  ----
+DIR  2026/10/8 13:45:00         bg-BG
+DIR  2026/10/8 13:45:00         CIPolicies
+DIR  2026/10/8 13:45:00         cs-CZ
+DIR  2026/10/8 13:45:00         da-DK
+DIR  2026/10/8 13:45:00         de-DE
+DIR  2026/10/8 13:45:00         el-GR
+DIR  2026/10/8 13:45:00         en-GB
+DIR  2026/10/8 13:45:00         en-US
+DIR  2026/10/8 13:45:00         es-ES
+DIR  2026/10/8 13:45:00         es-MX
+DIR  2026/10/8 13:45:00         et-EE
+DIR  2026/10/8 13:45:00         fi-FI
+DIR  2026/10/8 13:45:00         Fonts
+DIR  2026/10/8 13:45:00         fr-CA
+DIR  2026/10/8 13:45:00         fr-FR
+DIR  2026/10/8 13:45:00         hr-HR
+DIR  2026/10/8 13:45:00         hu-HU
+DIR  2026/10/8 13:45:00         it-IT
+DIR  2026/10/8 13:45:00         ja-JP
+DIR  2026/10/8 13:45:00         ko-KR
+DIR  2026/10/8 13:45:00         lt-LT
+DIR  2026/10/8 13:45:00         lv-LV
+DIR  2026/10/8 13:45:00         nb-NO
+DIR  2026/10/8 13:45:00         nl-NL
+DIR  2026/10/8 13:45:00         pl-PL
+DIR  2026/10/8 13:45:00         pt-BR
+DIR  2026/10/8 13:45:00         pt-PT
+DIR  2026/10/8 13:45:00         qps-ploc
+DIR  2026/10/8 13:45:00         qps-plocm
+DIR  2026/10/8 13:45:00         Resources
+DIR  2026/10/8 13:45:00         ro-RO
+DIR  2026/10/8 13:45:00         ru-RU
+DIR  2026/10/8 13:45:00         sk-SK
+DIR  2026/10/8 13:45:00         sl-SI
+DIR  2026/10/8 13:45:00         sr-Latn-RS
+DIR  2026/10/8 13:45:00         sv-SE
+DIR  2026/10/8 13:45:00         tr-TR
+DIR  2026/10/8 13:45:00         uk-UA
+DIR  2026/10/8 13:45:00         zh-CN
+DIR  2026/10/8 13:45:00         zh-TW
+FILE 2026/10/8 13:45:48 24576   BCD
+FILE 2026/10/8 13:45:00 32768   BCD.LOG
+FILE 2026/10/8 13:45:00 0       BCD.LOG1
+FILE 2026/10/8 13:45:00 0       BCD.LOG2
+FILE 2026/6/10 20:48:18 12521   boot.stl
+FILE 2026/9/9 11:25:00  3087400 bootmgfw.efi
+FILE 2026/9/9 11:25:00  3070456 bootmgr.efi
+FILE 2026/10/8 13:45:44 65536   BOOTSTAT.DAT
+FILE 2026/3/7 7:48:44   71072   kd_02_10df.dll
+FILE 2026/3/7 7:48:44   562592  kd_02_10ec.dll
+FILE 2026/3/7 7:48:44   71064   kd_02_1137.dll
+FILE 2026/3/7 7:48:44   99752   kd_02_1414.dll
+FILE 2026/3/7 7:48:44   284048  kd_02_14e4.dll
+FILE 2026/3/7 7:48:44   58792   kd_02_15ad.dll
+FILE 2026/3/7 7:48:44   91552   kd_02_15b3.dll
+FILE 2026/3/7 7:48:44   83328   kd_02_1969.dll
+FILE 2026/3/7 7:48:44   71056   kd_02_19a2.dll
+FILE 2026/3/7 7:48:44   62864   kd_02_1af4.dll
+FILE 2026/3/7 7:48:44   83328   kd_02_1d0f.dll
+FILE 2026/3/7 7:48:44   361872  kd_02_8086.dll
+FILE 2026/3/7 7:48:44   58784   kd_07_1415.dll
+FILE 2026/3/7 7:48:44   87440   kd_0C_8086.dll
+FILE 2026/3/7 7:48:44   58776   kdnet_uart16550.dll
+FILE 2026/6/28 4:09:48  87536   kdstub.dll
+FILE 2026/9/9 11:25:00  2610656 memtest.efi
+FILE 2026/9/9 11:25:00  174584  SecureBootRecovery.efi
+FILE 2024/4/1 15:22:46  10341   winsipolicy.p7b
+
+==================== S:\EFI\OC ====================
+
+T    LastWriteTime      Length Name
+-    -------------      ------ ----
+DIR  2026/10/8 6:42:00         ACPI
+DIR  2026/10/8 6:42:04         Drivers
+DIR  2026/10/8 6:42:04         Kexts
+DIR  2026/10/8 6:42:06         Resources
+DIR  2026/10/8 6:42:08         Tools
+FILE 2026/10/7 17:10:28 8      .contentFlavour
+FILE 2026/10/7 17:10:28 8      .contentVisibility
+FILE 2026/10/8 6:30:00  45292  config.plist
+FILE 2026/10/7 17:10:28 42980  config.plist.bak-20261008-064045
+FILE 2026/10/7 17:10:28 43319  config.plist.bak2-20261008-070359
+FILE 2026/10/7 17:10:28 43319  config.plist.bak3-20261008-072227
+FILE 2026/10/7 17:10:28 43547  config.plist.nullmoth-20261007-171033
+FILE 2026/10/7 17:10:32 44560  config.plist.nullmoth-20261007-174336
+FILE 2026/10/7 18:25:24 70708  config.plist.nullmoth-20261008-063000
+FILE 2026/10/7 17:10:32 44560  config.plist.nullmoth-usb-20261007-175521
+FILE 2026/10/7 18:25:24 71431  oldConfig.plist
+FILE 2026/10/7 17:10:28 630784 OpenCore.efi
+
+==================== EFI 全树（文件，按路径） ====================
+
+LastWriteTime       Length FullName
+-------------       ------ --------
+2026/10/7 17:10:28       8 S:\EFI\BOOT\.contentFlavour
+2026/10/7 17:10:28       8 S:\EFI\BOOT\.contentVisibility
+2026/10/7 17:10:28   24576 S:\EFI\BOOT\BOOTx64.efi
+2026/10/8 13:45:48   24576 S:\EFI\Microsoft\Boot\BCD
+2026/10/8 13:45:00   32768 S:\EFI\Microsoft\Boot\BCD.LOG
+2026/10/8 13:45:00       0 S:\EFI\Microsoft\Boot\BCD.LOG1
+2026/10/8 13:45:00       0 S:\EFI\Microsoft\Boot\BCD.LOG2
+2026/6/10 20:48:18   94760 S:\EFI\Microsoft\Boot\bg-BG\bootmgfw.efi.mui
+2026/6/10 20:48:18   90096 S:\EFI\Microsoft\Boot\bg-BG\bootmgr.efi.mui
+2026/6/10 20:48:18   12521 S:\EFI\Microsoft\Boot\boot.stl
+2026/9/9 11:25:00  3087400 S:\EFI\Microsoft\Boot\bootmgfw.efi
+2026/9/9 11:25:00  3070456 S:\EFI\Microsoft\Boot\bootmgr.efi
+2026/10/8 13:45:44   65536 S:\EFI\Microsoft\Boot\BOOTSTAT.DAT
+2024/4/1 15:22:36    10564 S:\EFI\Microsoft\Boot\CIPolicies\Active\{5DAC656C-21AD-4A02-AB49-649917162E70}.cip
+2026/3/7 7:48:46     32508 S:\EFI\Microsoft\Boot\CIPolicies\Active\{82443e1e-8a39-4b4a-96a8-f40ddc00b9f3}.cip
+2024/4/1 15:22:42    10972 S:\EFI\Microsoft\Boot\CIPolicies\Active\{CDD5CB55-DB68-4D71-AA38-3DF2B6473A52}.cip
+2026/6/10 20:48:18   93736 S:\EFI\Microsoft\Boot\cs-CZ\bootmgfw.efi.mui
+2026/6/10 20:48:18   90096 S:\EFI\Microsoft\Boot\cs-CZ\bootmgr.efi.mui
+2024/4/1 15:22:14    46496 S:\EFI\Microsoft\Boot\cs-CZ\memtest.efi.mui
+2026/6/10 20:48:18   92672 S:\EFI\Microsoft\Boot\da-DK\bootmgfw.efi.mui
+2026/6/10 20:48:18   90096 S:\EFI\Microsoft\Boot\da-DK\bootmgr.efi.mui
+2024/4/1 15:22:14    46496 S:\EFI\Microsoft\Boot\da-DK\memtest.efi.mui
+2026/6/10 20:48:18   97320 S:\EFI\Microsoft\Boot\de-DE\bootmgfw.efi.mui
+2026/6/10 20:48:18   90096 S:\EFI\Microsoft\Boot\de-DE\bootmgr.efi.mui
+2024/4/1 15:22:14    47008 S:\EFI\Microsoft\Boot\de-DE\memtest.efi.mui
+2026/6/10 20:48:18   97792 S:\EFI\Microsoft\Boot\el-GR\bootmgfw.efi.mui
+2026/6/10 20:48:18   90136 S:\EFI\Microsoft\Boot\el-GR\bootmgr.efi.mui
+2024/4/1 15:22:14    47520 S:\EFI\Microsoft\Boot\el-GR\memtest.efi.mui
+2026/6/10 20:48:18   90112 S:\EFI\Microsoft\Boot\en-GB\bootmgfw.efi.mui
+2026/6/10 20:48:18   90096 S:\EFI\Microsoft\Boot\en-GB\bootmgr.efi.mui
+2026/6/10 20:48:18   90112 S:\EFI\Microsoft\Boot\en-US\bootmgfw.efi.mui
+2026/6/10 20:48:18   90136 S:\EFI\Microsoft\Boot\en-US\bootmgr.efi.mui
+2024/4/1 15:22:14    45984 S:\EFI\Microsoft\Boot\en-US\memtest.efi.mui
+2026/6/10 20:48:18   94720 S:\EFI\Microsoft\Boot\es-ES\bootmgfw.efi.mui
+2026/6/10 20:48:18   90136 S:\EFI\Microsoft\Boot\es-ES\bootmgr.efi.mui
+2024/4/1 15:22:14    47024 S:\EFI\Microsoft\Boot\es-ES\memtest.efi.mui
+2026/6/10 20:48:18   94720 S:\EFI\Microsoft\Boot\es-MX\bootmgfw.efi.mui
+2026/6/10 20:48:18   90096 S:\EFI\Microsoft\Boot\es-MX\bootmgr.efi.mui
+2026/6/10 20:48:18   91136 S:\EFI\Microsoft\Boot\et-EE\bootmgfw.efi.mui
+2026/6/10 20:48:18   90136 S:\EFI\Microsoft\Boot\et-EE\bootmgr.efi.mui
+2026/6/10 20:48:18   93696 S:\EFI\Microsoft\Boot\fi-FI\bootmgfw.efi.mui
+2026/6/10 20:48:18   90096 S:\EFI\Microsoft\Boot\fi-FI\bootmgr.efi.mui
+2024/4/1 15:22:14    46512 S:\EFI\Microsoft\Boot\fi-FI\memtest.efi.mui
+2026/6/10 20:48:18 3696816 S:\EFI\Microsoft\Boot\Fonts\chs_boot.ttf
+2026/3/7 7:48:44   3879428 S:\EFI\Microsoft\Boot\Fonts\cht_boot.ttf
+2026/3/7 7:48:44   1986860 S:\EFI\Microsoft\Boot\Fonts\jpn_boot.ttf
+2026/3/7 7:48:44   2374000 S:\EFI\Microsoft\Boot\Fonts\kor_boot.ttf
+2026/3/7 7:48:44    201960 S:\EFI\Microsoft\Boot\Fonts\malgun_boot.ttf
+2026/3/7 7:48:44    199440 S:\EFI\Microsoft\Boot\Fonts\malgunn_boot.ttf
+2026/3/7 7:48:44    175972 S:\EFI\Microsoft\Boot\Fonts\meiryo_boot.ttf
+2026/3/7 7:48:44    174148 S:\EFI\Microsoft\Boot\Fonts\meiryon_boot.ttf
+2026/3/7 7:48:44    201348 S:\EFI\Microsoft\Boot\Fonts\msjh_boot.ttf
+2026/3/7 7:48:44    199176 S:\EFI\Microsoft\Boot\Fonts\msjhn_boot.ttf
+2026/6/10 20:48:18  190044 S:\EFI\Microsoft\Boot\Fonts\msyh_boot.ttf
+2026/6/10 20:48:18  187988 S:\EFI\Microsoft\Boot\Fonts\msyhn_boot.ttf
+2026/3/7 7:48:44     45848 S:\EFI\Microsoft\Boot\Fonts\segmono_boot.ttf
+2026/3/7 7:48:44    102980 S:\EFI\Microsoft\Boot\Fonts\segoe_slboot.ttf
+2026/3/7 7:48:44    102748 S:\EFI\Microsoft\Boot\Fonts\segoen_slboot.ttf
+2026/3/7 7:48:44     50096 S:\EFI\Microsoft\Boot\Fonts\wgl4_boot.ttf
+2026/6/10 20:48:18   97320 S:\EFI\Microsoft\Boot\fr-CA\bootmgfw.efi.mui
+2026/6/10 20:48:18   90096 S:\EFI\Microsoft\Boot\fr-CA\bootmgr.efi.mui
+2026/6/10 20:48:18   96768 S:\EFI\Microsoft\Boot\fr-FR\bootmgfw.efi.mui
+2026/6/10 20:48:18   90096 S:\EFI\Microsoft\Boot\fr-FR\bootmgr.efi.mui
+2024/4/1 15:22:14    47024 S:\EFI\Microsoft\Boot\fr-FR\memtest.efi.mui
+2026/6/10 20:48:18   93696 S:\EFI\Microsoft\Boot\hr-HR\bootmgfw.efi.mui
+2026/6/10 20:48:18   90136 S:\EFI\Microsoft\Boot\hr-HR\bootmgr.efi.mui
+2026/6/10 20:48:18   96816 S:\EFI\Microsoft\Boot\hu-HU\bootmgfw.efi.mui
+2026/6/10 20:48:18   90096 S:\EFI\Microsoft\Boot\hu-HU\bootmgr.efi.mui
+2024/4/1 15:22:14    47008 S:\EFI\Microsoft\Boot\hu-HU\memtest.efi.mui
+2026/6/10 20:48:18   94248 S:\EFI\Microsoft\Boot\it-IT\bootmgfw.efi.mui
+2026/6/10 20:48:18   90096 S:\EFI\Microsoft\Boot\it-IT\bootmgr.efi.mui
+2024/4/1 15:22:14    46384 S:\EFI\Microsoft\Boot\it-IT\memtest.efi.mui
+2026/6/10 20:48:18   81408 S:\EFI\Microsoft\Boot\ja-JP\bootmgfw.efi.mui
+2026/6/10 20:48:18   90096 S:\EFI\Microsoft\Boot\ja-JP\bootmgr.efi.mui
+2024/4/1 15:22:14    43824 S:\EFI\Microsoft\Boot\ja-JP\memtest.efi.mui
+2026/3/7 7:48:44     71072 S:\EFI\Microsoft\Boot\kd_02_10df.dll
+2026/3/7 7:48:44    562592 S:\EFI\Microsoft\Boot\kd_02_10ec.dll
+2026/3/7 7:48:44     71064 S:\EFI\Microsoft\Boot\kd_02_1137.dll
+2026/3/7 7:48:44     99752 S:\EFI\Microsoft\Boot\kd_02_1414.dll
+2026/3/7 7:48:44    284048 S:\EFI\Microsoft\Boot\kd_02_14e4.dll
+2026/3/7 7:48:44     58792 S:\EFI\Microsoft\Boot\kd_02_15ad.dll
+2026/3/7 7:48:44     91552 S:\EFI\Microsoft\Boot\kd_02_15b3.dll
+2026/3/7 7:48:44     83328 S:\EFI\Microsoft\Boot\kd_02_1969.dll
+2026/3/7 7:48:44     71056 S:\EFI\Microsoft\Boot\kd_02_19a2.dll
+2026/3/7 7:48:44     62864 S:\EFI\Microsoft\Boot\kd_02_1af4.dll
+2026/3/7 7:48:44     83328 S:\EFI\Microsoft\Boot\kd_02_1d0f.dll
+2026/3/7 7:48:44    361872 S:\EFI\Microsoft\Boot\kd_02_8086.dll
+2026/3/7 7:48:44     58784 S:\EFI\Microsoft\Boot\kd_07_1415.dll
+2026/3/7 7:48:44     87440 S:\EFI\Microsoft\Boot\kd_0C_8086.dll
+2026/3/7 7:48:44     58776 S:\EFI\Microsoft\Boot\kdnet_uart16550.dll
+2026/6/28 4:09:48    87536 S:\EFI\Microsoft\Boot\kdstub.dll
+2026/6/10 20:48:18   80936 S:\EFI\Microsoft\Boot\ko-KR\bootmgfw.efi.mui
+2026/6/10 20:48:18   90096 S:\EFI\Microsoft\Boot\ko-KR\bootmgr.efi.mui
+2024/4/1 15:22:14    43952 S:\EFI\Microsoft\Boot\ko-KR\memtest.efi.mui
+2026/6/10 20:48:18   92672 S:\EFI\Microsoft\Boot\lt-LT\bootmgfw.efi.mui
+2026/6/10 20:48:18   90096 S:\EFI\Microsoft\Boot\lt-LT\bootmgr.efi.mui
+2026/6/10 20:48:18   92160 S:\EFI\Microsoft\Boot\lv-LV\bootmgfw.efi.mui
+2026/6/10 20:48:18   90144 S:\EFI\Microsoft\Boot\lv-LV\bootmgr.efi.mui
+2026/9/9 11:25:00  2610656 S:\EFI\Microsoft\Boot\memtest.efi
+2026/6/10 20:48:18   92160 S:\EFI\Microsoft\Boot\nb-NO\bootmgfw.efi.mui
+2026/6/10 20:48:18   90096 S:\EFI\Microsoft\Boot\nb-NO\bootmgr.efi.mui
+2024/4/1 15:22:14    46512 S:\EFI\Microsoft\Boot\nb-NO\memtest.efi.mui
+2026/6/10 20:48:18   94768 S:\EFI\Microsoft\Boot\nl-NL\bootmgfw.efi.mui
+2026/6/10 20:48:18   90136 S:\EFI\Microsoft\Boot\nl-NL\bootmgr.efi.mui
+2024/4/1 15:22:14    46496 S:\EFI\Microsoft\Boot\nl-NL\memtest.efi.mui
+2026/6/10 20:48:18   95792 S:\EFI\Microsoft\Boot\pl-PL\bootmgfw.efi.mui
+2026/6/10 20:48:18   90096 S:\EFI\Microsoft\Boot\pl-PL\bootmgr.efi.mui
+2024/4/1 15:22:14    47008 S:\EFI\Microsoft\Boot\pl-PL\memtest.efi.mui
+2026/6/10 20:48:18   93696 S:\EFI\Microsoft\Boot\pt-BR\bootmgfw.efi.mui
+2026/6/10 20:48:18   90096 S:\EFI\Microsoft\Boot\pt-BR\bootmgr.efi.mui
+2024/4/1 15:22:14    46400 S:\EFI\Microsoft\Boot\pt-BR\memtest.efi.mui
+2026/6/10 20:48:18   94208 S:\EFI\Microsoft\Boot\pt-PT\bootmgfw.efi.mui
+2026/6/10 20:48:18   90096 S:\EFI\Microsoft\Boot\pt-PT\bootmgr.efi.mui
+2024/4/1 15:22:14    46912 S:\EFI\Microsoft\Boot\pt-PT\memtest.efi.mui
+2024/4/1 15:22:14    55104 S:\EFI\Microsoft\Boot\qps-ploc\memtest.efi.mui
+2024/4/1 15:22:14    54704 S:\EFI\Microsoft\Boot\qps-plocm\memtest.efi.mui
+2026/6/10 20:48:18  169424 S:\EFI\Microsoft\Boot\Resources\bootres.dll
+2026/6/10 20:48:18   13800 S:\EFI\Microsoft\Boot\Resources\en-US\bootres.dll.mui
+2026/6/10 20:48:18   13264 S:\EFI\Microsoft\Boot\Resources\zh-CN\bootres.dll.mui
+2026/6/10 20:48:18   93184 S:\EFI\Microsoft\Boot\ro-RO\bootmgfw.efi.mui
+2026/6/10 20:48:18   90096 S:\EFI\Microsoft\Boot\ro-RO\bootmgr.efi.mui
+2026/6/10 20:48:18   94208 S:\EFI\Microsoft\Boot\ru-RU\bootmgfw.efi.mui
+2026/6/10 20:48:18   90096 S:\EFI\Microsoft\Boot\ru-RU\bootmgr.efi.mui
+2024/4/1 15:22:14    45872 S:\EFI\Microsoft\Boot\ru-RU\memtest.efi.mui
+2026/9/9 11:25:00   174584 S:\EFI\Microsoft\Boot\SecureBootRecovery.efi
+2026/6/10 20:48:18   94248 S:\EFI\Microsoft\Boot\sk-SK\bootmgfw.efi.mui
+2026/6/10 20:48:18   90096 S:\EFI\Microsoft\Boot\sk-SK\bootmgr.efi.mui
+2026/6/10 20:48:18   93224 S:\EFI\Microsoft\Boot\sl-SI\bootmgfw.efi.mui
+2026/6/10 20:48:18   90136 S:\EFI\Microsoft\Boot\sl-SI\bootmgr.efi.mui
+2026/6/10 20:48:18   94208 S:\EFI\Microsoft\Boot\sr-Latn-RS\bootmgfw.efi.mui
+2026/6/10 20:48:18   90136 S:\EFI\Microsoft\Boot\sr-Latn-RS\bootmgr.efi.mui
+2026/6/10 20:48:18   93184 S:\EFI\Microsoft\Boot\sv-SE\bootmgfw.efi.mui
+2026/6/10 20:48:18   90096 S:\EFI\Microsoft\Boot\sv-SE\bootmgr.efi.mui
+2024/4/1 15:22:14    45888 S:\EFI\Microsoft\Boot\sv-SE\memtest.efi.mui
+2026/6/10 20:48:18   92672 S:\EFI\Microsoft\Boot\tr-TR\bootmgfw.efi.mui
+2026/6/10 20:48:18   90136 S:\EFI\Microsoft\Boot\tr-TR\bootmgr.efi.mui
+2024/4/1 15:22:14    46496 S:\EFI\Microsoft\Boot\tr-TR\memtest.efi.mui
+2026/6/10 20:48:18   93736 S:\EFI\Microsoft\Boot\uk-UA\bootmgfw.efi.mui
+2026/6/10 20:48:18   90096 S:\EFI\Microsoft\Boot\uk-UA\bootmgr.efi.mui
+2024/4/1 15:22:46    10341 S:\EFI\Microsoft\Boot\winsipolicy.p7b
+2026/6/10 20:48:18   76328 S:\EFI\Microsoft\Boot\zh-CN\bootmgfw.efi.mui
+2026/6/10 20:48:18   90096 S:\EFI\Microsoft\Boot\zh-CN\bootmgr.efi.mui
+2024/4/1 15:22:14    43424 S:\EFI\Microsoft\Boot\zh-CN\memtest.efi.mui
+2026/6/10 20:48:18   76800 S:\EFI\Microsoft\Boot\zh-TW\bootmgfw.efi.mui
+2026/6/10 20:48:18   90096 S:\EFI\Microsoft\Boot\zh-TW\bootmgr.efi.mui
+2024/4/1 15:22:14    43424 S:\EFI\Microsoft\Boot\zh-TW\memtest.efi.mui
+2026/10/8 13:45:00   12288 S:\EFI\Microsoft\Recovery\BCD
+2026/10/8 13:45:00   16384 S:\EFI\Microsoft\Recovery\BCD.LOG
+2026/10/8 13:45:00       0 S:\EFI\Microsoft\Recovery\BCD.LOG1
+2026/10/8 13:45:00       0 S:\EFI\Microsoft\Recovery\BCD.LOG2
+2026/10/7 17:10:28       8 S:\EFI\OC\.contentFlavour
+2026/10/7 17:10:28       8 S:\EFI\OC\.contentVisibility
+2026/10/7 17:10:28     228 S:\EFI\OC\ACPI\SSDT-Disable_Network_GPP7.aml
+2026/10/7 17:10:28     125 S:\EFI\OC\ACPI\SSDT-EC.aml
+2026/10/7 17:10:28    1096 S:\EFI\OC\ACPI\SSDT-PLUG-ALT.aml
+2026/10/7 17:10:28     213 S:\EFI\OC\ACPI\SSDT-USB-Reset.aml
+2026/10/7 17:10:28     216 S:\EFI\OC\ACPI\SSDT-USBX.aml
+2026/10/8 6:30:00    45292 S:\EFI\OC\config.plist
+2026/10/7 17:10:28   42980 S:\EFI\OC\config.plist.bak-20261008-064045
+2026/10/7 17:10:28   43319 S:\EFI\OC\config.plist.bak2-20261008-070359
+2026/10/7 17:10:28   43319 S:\EFI\OC\config.plist.bak3-20261008-072227
+2026/10/7 17:10:28   43547 S:\EFI\OC\config.plist.nullmoth-20261007-171033
+2026/10/7 17:10:32   44560 S:\EFI\OC\config.plist.nullmoth-20261007-174336
+2026/10/7 18:25:24   70708 S:\EFI\OC\config.plist.nullmoth-20261008-063000
+2026/10/7 17:10:32   44560 S:\EFI\OC\config.plist.nullmoth-usb-20261007-175521
+2026/10/7 17:10:28   37892 S:\EFI\OC\Drivers\HfsPlus.efi
+2026/10/7 17:10:28  114688 S:\EFI\OC\Drivers\OpenCanopy.efi
+2026/10/7 17:10:28   24576 S:\EFI\OC\Drivers\OpenRuntime.efi
+2026/10/7 17:10:28   45056 S:\EFI\OC\Drivers\ResetNvramEntry.efi
+2026/10/7 17:10:28  439447 S:\EFI\OC\Kexts\AppleALC.kext\Contents\Info.plist
+2026/10/7 17:10:28 1905656 S:\EFI\OC\Kexts\AppleALC.kext\Contents\MacOS\AppleALC
+2026/10/7 17:10:28    1937 S:\EFI\OC\Kexts\AppleMCEReporterDisabler.kext\Contents\Info.plist
+2026/10/7 17:10:28    2743 S:\EFI\OC\Kexts\Lilu.kext\Contents\Info.plist
+2026/10/7 17:10:28  543840 S:\EFI\OC\Kexts\Lilu.kext\Contents\MacOS\Lilu
+2026/10/7 17:10:28    2370 S:\EFI\OC\Kexts\NVMeFix.kext\Contents\Info.plist
+2026/10/7 17:10:28   51312 S:\EFI\OC\Kexts\NVMeFix.kext\Contents\MacOS\NVMeFix
+2026/10/7 17:10:28    5823 S:\EFI\OC\Kexts\RestrictEvents.kext\Contents\Info.plist
+2026/10/7 17:10:28   52848 S:\EFI\OC\Kexts\RestrictEvents.kext\Contents\MacOS\RestrictEvents
+2026/10/7 17:10:28    2200 S:\EFI\OC\Kexts\RTL812xLucy.kext\Contents\_CodeSignature\CodeResources
+2026/10/7 17:10:28    2872 S:\EFI\OC\Kexts\RTL812xLucy.kext\Contents\Info.plist
+2026/10/7 17:10:28  414064 S:\EFI\OC\Kexts\RTL812xLucy.kext\Contents\MacOS\RTL812xLucy
+2026/10/7 17:10:28    1804 S:\EFI\OC\Kexts\USBToolBox.kext\Contents\Info.plist
+2026/10/7 17:10:28   39360 S:\EFI\OC\Kexts\USBToolBox.kext\Contents\MacOS\USBToolBox
+2026/10/7 17:10:28    1306 S:\EFI\OC\Kexts\UTBDefault.kext\Contents\Info.plist
+2026/10/7 17:55:20    4643 S:\EFI\OC\Kexts\UTBMap.kext\Contents\Info.plist
+2026/10/7 17:10:28    8652 S:\EFI\OC\Kexts\VirtualSMC.kext\Contents\Info.plist
+2026/10/7 17:10:28  245820 S:\EFI\OC\Kexts\VirtualSMC.kext\Contents\MacOS\VirtualSMC
+2026/10/7 17:10:28    3020 S:\EFI\OC\Kexts\WhateverGreen.kext\Contents\Info.plist
+2026/10/7 17:10:28  531800 S:\EFI\OC\Kexts\WhateverGreen.kext\Contents\MacOS\WhateverGreen
+2026/10/7 18:25:24   71431 S:\EFI\OC\oldConfig.plist
+2026/10/7 17:10:28  630784 S:\EFI\OC\OpenCore.efi
+2026/10/7 17:10:28    1985 S:\EFI\OC\Resources\Font\Font_1x.bin
+2026/10/7 17:10:28    3426 S:\EFI\OC\Resources\Font\Font_1x.png
+2026/10/7 17:10:28    1988 S:\EFI\OC\Resources\Font\Font_2x.bin
+2026/10/7 17:10:28    7424 S:\EFI\OC\Resources\Font\Font_2x.png
+2026/10/7 17:10:28   51528 S:\EFI\OC\Resources\Font\Terminus.hex
+2026/10/7 17:10:28   51528 S:\EFI\OC\Resources\Font\TerminusCore.hex
+2026/10/7 17:10:28   98171 S:\EFI\OC\Resources\Image\Acidanthera\GoldenGate\AppleRecv.icns
+2026/10/7 17:10:28   66217 S:\EFI\OC\Resources\Image\Acidanthera\GoldenGate\AppleTM.icns
+2026/10/7 17:10:28 2552118 S:\EFI\OC\Resources\Image\Acidanthera\GoldenGate\Background.icns
+2026/10/7 17:10:28    2650 S:\EFI\OC\Resources\Image\Acidanthera\GoldenGate\BtnFocus.icns
+2026/10/7 17:10:28    1262 S:\EFI\OC\Resources\Image\Acidanthera\GoldenGate\Cursor.icns
+2026/10/7 17:10:28     293 S:\EFI\OC\Resources\Image\Acidanthera\GoldenGate\Dot.icns
+2026/10/7 17:10:28    1651 S:\EFI\OC\Resources\Image\Acidanthera\GoldenGate\Enter.icns
+2026/10/7 17:10:28   94546 S:\EFI\OC\Resources\Image\Acidanthera\GoldenGate\ExtAppleRecv.icns
+2026/10/7 17:10:28   76078 S:\EFI\OC\Resources\Image\Acidanthera\GoldenGate\ExtAppleTM.icns
+2026/10/7 17:10:28   65723 S:\EFI\OC\Resources\Image\Acidanthera\GoldenGate\ExtHardDrive.icns
+2026/10/7 17:10:28   98171 S:\EFI\OC\Resources\Image\Acidanthera\GoldenGate\FirmwareSettings.icns
+2026/10/7 17:10:28   83952 S:\EFI\OC\Resources\Image\Acidanthera\GoldenGate\HardDrive.icns
+2026/10/7 17:10:28    3048 S:\EFI\OC\Resources\Image\Acidanthera\GoldenGate\Left.icns
+2026/10/7 17:10:28    2622 S:\EFI\OC\Resources\Image\Acidanthera\GoldenGate\Lock.icns
+2026/10/7 17:10:28   98171 S:\EFI\OC\Resources\Image\Acidanthera\GoldenGate\NetworkBoot.icns
+2026/10/7 17:10:28   85314 S:\EFI\OC\Resources\Image\Acidanthera\GoldenGate\OpticalDrive.icns
+2026/10/7 17:10:28     808 S:\EFI\OC\Resources\Image\Acidanthera\GoldenGate\Password.icns
+2026/10/7 17:10:28    5790 S:\EFI\OC\Resources\Image\Acidanthera\GoldenGate\Restart.icns
+2026/10/7 17:10:28    3019 S:\EFI\OC\Resources\Image\Acidanthera\GoldenGate\Right.icns
+2026/10/7 17:10:28    1348 S:\EFI\OC\Resources\Image\Acidanthera\GoldenGate\Selected.icns
+2026/10/7 17:10:28    3010 S:\EFI\OC\Resources\Image\Acidanthera\GoldenGate\Selector.icns
+2026/10/7 17:10:28    3415 S:\EFI\OC\Resources\Image\Acidanthera\GoldenGate\SetDefault.icns
+2026/10/7 17:10:28   12072 S:\EFI\OC\Resources\Image\Acidanthera\GoldenGate\Shell.icns
+2026/10/7 17:10:28    6168 S:\EFI\OC\Resources\Image\Acidanthera\GoldenGate\ShutDown.icns
+2026/10/7 17:10:28   15342 S:\EFI\OC\Resources\Image\Acidanthera\GoldenGate\Tool.icns
+2026/10/7 17:10:28   63399 S:\EFI\OC\Resources\Image\Acidanthera\GoldenGate\Windows.icns
+2026/10/7 17:10:28    1733 S:\EFI\OC\Resources\Label\Apple.l2x
+2026/10/7 17:10:28     437 S:\EFI\OC\Resources\Label\Apple.lbl
+2026/10/7 17:10:28    3917 S:\EFI\OC\Resources\Label\AppleRecv.l2x
+2026/10/7 17:10:28     977 S:\EFI\OC\Resources\Label\AppleRecv.lbl
+2026/10/7 17:10:28    3149 S:\EFI\OC\Resources\Label\AppleTM.l2x
+2026/10/7 17:10:28     785 S:\EFI\OC\Resources\Label\AppleTM.lbl
+2026/10/7 17:10:28    1997 S:\EFI\OC\Resources\Label\EFIBoot.l2x
+2026/10/7 17:10:28     497 S:\EFI\OC\Resources\Label\EFIBoot.lbl
+2026/10/7 17:10:28    3989 S:\EFI\OC\Resources\Label\FirmwareSettings.l2x
+2026/10/7 17:10:28    1001 S:\EFI\OC\Resources\Label\FirmwareSettings.lbl
+2026/10/7 17:10:28    2885 S:\EFI\OC\Resources\Label\NetworkBoot.l2x
+2026/10/7 17:10:28     725 S:\EFI\OC\Resources\Label\NetworkBoot.lbl
+2026/10/7 17:10:28    2165 S:\EFI\OC\Resources\Label\Other.l2x
+2026/10/7 17:10:28     545 S:\EFI\OC\Resources\Label\Other.lbl
+2026/10/7 17:10:28    3221 S:\EFI\OC\Resources\Label\ResetNVRAM.l2x
+2026/10/7 17:10:28     809 S:\EFI\OC\Resources\Label\ResetNVRAM.lbl
+2026/10/7 17:10:28    2405 S:\EFI\OC\Resources\Label\Shell.l2x
+2026/10/7 17:10:28     605 S:\EFI\OC\Resources\Label\Shell.lbl
+2026/10/7 17:10:28    4781 S:\EFI\OC\Resources\Label\SIPDisabled.l2x
+2026/10/7 17:10:28    1193 S:\EFI\OC\Resources\Label\SIPDisabled.lbl
+2026/10/7 17:10:28    4661 S:\EFI\OC\Resources\Label\SIPEnabled.l2x
+2026/10/7 17:10:28    1169 S:\EFI\OC\Resources\Label\SIPEnabled.lbl
+2026/10/7 17:10:28    1037 S:\EFI\OC\Resources\Label\Tool.l2x
+2026/10/7 17:10:28     257 S:\EFI\OC\Resources\Label\Tool.lbl
+2026/10/7 17:10:28    2117 S:\EFI\OC\Resources\Label\Windows.l2x
+2026/10/7 17:10:28     533 S:\EFI\OC\Resources\Label\Windows.lbl
+2026/10/7 17:10:32   25088 S:\EFI\OC\Tools\NullMothSafe.efi
+
+==================== 关键引导文件存在性 ====================
+  [OK]    EFI\Microsoft\Boot\bootmgfw.efi             3087400 B   2026/9/9 11:25:00
+  [OK]    EFI\Microsoft\Boot\BCD                        24576 B   2026/10/8 13:45:48
+  [OK]    EFI\Boot\bootx64.efi                          24576 B   2026/10/7 17:10:28
+  [OK]    EFI\OC\OpenCore.efi                          630784 B   2026/10/7 17:10:28
+  [OK]    EFI\OC\config.plist                           45292 B   2026/10/8 6:30:00
+==================== 已卸载 S: ====================
+=== DONE ===
